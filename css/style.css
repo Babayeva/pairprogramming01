@@ -1,0 +1,155 @@
+html,body{
+margin: -5px 0 0 0;	
+padding: 0;
+background: url('../bg.jpg') repeat;
+font-family: Calibri;
+}
+.first
+{
+	width: 100%;
+	height: 120px;
+	background-color: white;
+	margin: 0 auto;
+}
+.one
+{
+	margin-top: -11px;
+	height: 131px;
+	width: 200px;
+	background-color: #1491C1;
+	margin-left: 200px;
+	float: left;	
+}
+.heading
+{	
+	margin-top: -11px; 	
+	height: 120px;
+	background-color: #083266;
+}
+.heading ul li  
+{
+	display: inline;
+	text-decoration:none;
+	color:#80D2F8;
+	border-right: 1px solid #80D2F8; 
+	line-height: 165px;
+	word-spacing: 3px;
+	padding: 150px 20px 29px 20px;
+	font-family: Calibri Light;
+}
+.heading ul li:hover{
+	transition: all .5s ease;
+	color: #0855AF;
+}
+.Sitename
+{	padding: 0;
+	margin: 0;
+	line-height: 150px;
+	text-align: center;	
+	color: white; 
+	letter-spacing: 2px;
+	font-family: Calibri Light;
+	font-size: 2em;		 
+}
+.second
+{
+	margin: 0 auto;
+	width: 949px;
+	height: 800px;
+}
+.two
+{
+	height: 800px;
+	width: 200px;
+	background-color: #083266;
+	float: left;
+
+}
+.search{
+	width: 200px;
+	height: 90px;
+	background-color: #0E4E8E;
+}
+.searchhead{
+	color: white;
+	margin: 0;
+	padding:10px 0 0 15px;
+	font-size: 18px; 
+	font-family: Calibri Light;
+}
+.input{
+background-color: #083266;
+width: 120px;
+height: 20px;
+border: 1px solid #083266;
+margin-left: 15px;
+}
+.keysubmit{
+	background-color: #1491C1;
+	color: white;
+	border: 1px solid #1491C1;
+	width: 27px;
+	height: 24px;
+	margin-left: -5px;
+	margin-top: 15px;
+}
+.Myclass
+{
+		color: white;
+}
+.second ul{
+	padding:5px;
+}
+.second  ul li
+{
+	display: block;
+	color: #0855AF;
+	font-size: 11px;
+	border-bottom: 1px solid #80D2F8;
+	padding:5px 0px;
+	margin:10px 0px;
+}
+.second li:last-child{
+	border-bottom: none;
+}
+.second h1
+{
+ 	color: white;
+ 	font-size: 28px;
+}
+.semone{
+	border: 5px solid white;
+	display: inline-block;
+	float: left;
+	margin: 0 10px; 
+}
+.semtextone{
+float: right;
+font-size: 12px;
+color:white; 
+}
+.moreo{
+	background-color: #1491C1;
+	color: white;
+	border: 1px solid #1491C1;
+	width: 15px;
+	height: 10px;
+}
+.three
+{
+	height: 800px;
+	width: 749px;
+	background-color: black;
+	float: right;
+}
+.third
+{
+	width: 100%;
+	height: 250px;
+	background-color: deepskyblue;}
+.fourth
+{
+	width: 100%;
+	height: 50px;
+	background-color: white;
+}
